@@ -119,6 +119,7 @@ export default function CasinoWebsite() {
 
       {/* Footer */}
       <footer className="py-6 text-center text-yellow-400 text-sm border-t border-yellow-500/20">
+        
         © 2026 BetSphere Online Casino. All rights reserved.
       </footer>
     </div>
